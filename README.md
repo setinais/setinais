@@ -5,20 +5,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setinais&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/setinais/setinais/blob/main/img/angular.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/setinais/setinais/blob/main/img/vue.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/setinais/setinais/blob/main/img/django.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/setinais/setinais/blob/main/img/laravel-2.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/setinais/setinais/blob/main/img/mysql-6.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/setinais/setinais/blob/main/img/postgresql.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/22484227?v=4">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://github.com/setinais/setinais/blob/main/img/angular.svg">
+  <img align="center" alt="VueJs" height="30" width="40" src="https://github.com/setinais/setinais/blob/main/img/vue.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://github.com/setinais/setinais/blob/main/img/django.svg">
+  <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://github.com/setinais/setinais/blob/main/img/laravel-2.svg">
+  <img align="center" alt="Mysql" height="30" width="40" src="https://github.com/setinais/setinais/blob/main/img/mysql-6.svg">
+  <img align="center" alt="PostegreSql" height="30" width="40" src="https://github.com/setinais/setinais/blob/main/img/postgresql.svg">
+  <img align="right" alt="avatar" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/22484227?v=4">
 </div>
   
   ##
